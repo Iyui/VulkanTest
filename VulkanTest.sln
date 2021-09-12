@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VulkanTest", "VulkanTest\Vu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{FB6AA553-A5D3-44C6-8E0F-0E506426AC55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Triangle", "01_Triangle\01_Triangle.vcxproj", "{5AB23283-E469-4CC4-A0E5-E23E1928D91C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FB6AA553-A5D3-44C6-8E0F-0E506426AC55}.Release|x64.Build.0 = Release|x64
 		{FB6AA553-A5D3-44C6-8E0F-0E506426AC55}.Release|x86.ActiveCfg = Release|Win32
 		{FB6AA553-A5D3-44C6-8E0F-0E506426AC55}.Release|x86.Build.0 = Release|Win32
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Debug|x64.ActiveCfg = Debug|x64
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Debug|x64.Build.0 = Debug|x64
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Debug|x86.Build.0 = Debug|Win32
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Release|x64.ActiveCfg = Release|x64
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Release|x64.Build.0 = Release|x64
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Release|x86.ActiveCfg = Release|Win32
+		{5AB23283-E469-4CC4-A0E5-E23E1928D91C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
